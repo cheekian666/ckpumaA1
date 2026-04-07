@@ -2012,12 +2012,12 @@ a {
   }
 }
 .cid-vfZ0xYNkkB .mbr-section-title {
-  text-align: center;
+  text-align: justify;
   color: #f7f7f7;
 }
 .cid-vfZ0xYNkkB .mbr-text,
 .cid-vfZ0xYNkkB .mbr-section-btn {
-  text-align: center;
+  text-align: justify;
 }
 .cid-vfZcfCrABE {
   padding-top: 6rem;
@@ -2469,17 +2469,4 @@ a {
 }
 .cid-vfZoRiQBTN .copyright {
   color: #000000;
-}
-.cid-vg54DpRcr5 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-vg54DpRcr5 .video-wrapper iframe {
-  width: 100%;
-}
-.cid-vg54DpRcr5 .mbr-section-title,
-.cid-vg54DpRcr5 .mbr-section-subtitle,
-.cid-vg54DpRcr5 .mbr-text {
-  text-align: center;
 }
