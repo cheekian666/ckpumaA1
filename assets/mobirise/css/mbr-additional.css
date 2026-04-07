@@ -2474,3 +2474,16 @@ a {
 .cid-vfZoRiQBTN .copyright {
   color: #000000;
 }
+.cid-vg54DpRcr5 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vg54DpRcr5 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-vg54DpRcr5 .mbr-section-title,
+.cid-vg54DpRcr5 .mbr-section-subtitle,
+.cid-vg54DpRcr5 .mbr-text {
+  text-align: center;
+}
