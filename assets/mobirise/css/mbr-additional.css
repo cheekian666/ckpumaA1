@@ -1963,11 +1963,6 @@ a {
 }
 .cid-vfZ0xYNkkB {
   display: flex;
-  background-image: url("../../../assets/images/puma-2000x1124.jpg");
-}
-.cid-vfZ0xYNkkB .mbr-overlay {
-  background-color: #130101;
-  opacity: 0.5;
 }
 .cid-vfZ0xYNkkB .mbr-fallback-image.disabled {
   display: none;
@@ -1980,6 +1975,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-vfZ0xYNkkB .content-wrap {
   padding: 5rem 1rem;
