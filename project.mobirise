@@ -904,7 +904,8 @@
     "Index.html": {
       "settings": {
         "title": "Page 1",
-        "order": "1"
+        "order": "1",
+        "meta_image": "@PROJECT_PATH@/assets/images/melo-1974x1109.jpg"
       },
       "components": [
         {
